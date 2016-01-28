@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2015\TextToNumber\TextToNumber\bin\Debug\TextToNumber.exe.config
+D:\Documents\Visual Studio 2015\TextToNumber\TextToNumber\bin\Debug\TextToNumber.exe
+D:\Documents\Visual Studio 2015\TextToNumber\TextToNumber\bin\Debug\TextToNumber.pdb
+D:\Documents\Visual Studio 2015\TextToNumber\TextToNumber\obj\Debug\TextToNumber.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\TextToNumber\TextToNumber\obj\Debug\TextToNumber.exe
+D:\Documents\Visual Studio 2015\TextToNumber\TextToNumber\obj\Debug\TextToNumber.pdb
