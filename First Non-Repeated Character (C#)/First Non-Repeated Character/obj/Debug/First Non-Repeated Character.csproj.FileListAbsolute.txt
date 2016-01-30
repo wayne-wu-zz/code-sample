@@ -1,6 +1,0 @@
-D:\Documents\Visual Studio 2015\First Non-Repeated Character\First Non-Repeated Character\bin\Debug\First Non-Repeated Character.exe.config
-D:\Documents\Visual Studio 2015\First Non-Repeated Character\First Non-Repeated Character\bin\Debug\First Non-Repeated Character.exe
-D:\Documents\Visual Studio 2015\First Non-Repeated Character\First Non-Repeated Character\bin\Debug\First Non-Repeated Character.pdb
-D:\Documents\Visual Studio 2015\First Non-Repeated Character\First Non-Repeated Character\obj\Debug\First Non-Repeated Character.csprojResolveAssemblyReference.cache
-D:\Documents\Visual Studio 2015\First Non-Repeated Character\First Non-Repeated Character\obj\Debug\First Non-Repeated Character.exe
-D:\Documents\Visual Studio 2015\First Non-Repeated Character\First Non-Repeated Character\obj\Debug\First Non-Repeated Character.pdb
