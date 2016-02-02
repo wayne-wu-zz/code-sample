@@ -30,6 +30,9 @@ int main()
 
 	int size; 
 	cin >> size;
+	
+	delete arr1; 
+	delete arr2; 
 }
 
 int find_lcs(int arr1[], int arr2[], int i, int j) {
