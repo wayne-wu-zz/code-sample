@@ -43,6 +43,12 @@ int find_lcs(int arr1[], int arr2[], int i, int j) {
 		lcs_mag[k] = new int[j]();
 	}
 
+	//2D array that stores the flagging
+	bool** flag = new bool*[i];
+	for (int k = 0; k < i; k++) {
+		flag[k] = new bool[j]();
+	}
+
 	int num = longest_common_subseq(arr1, arr2, i-1, j-1, lcs_mag);
 
 	cout << num;
