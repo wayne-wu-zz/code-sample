@@ -31,6 +31,8 @@ int main()
 
 	cout << sum << endl;
 
+	delete nums;
+	
 	cin >> size; 
 }
 
