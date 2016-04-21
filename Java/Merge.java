@@ -1,3 +1,5 @@
+//Author: Wayne Wu
+
 public class Merge {
 	
 	public static void sort(int[] num){
