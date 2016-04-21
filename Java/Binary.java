@@ -1,3 +1,5 @@
+//Author: Wayne Wu
+
 import java.lang.Math;
 
 public class Binary {
