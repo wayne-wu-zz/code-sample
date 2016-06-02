@@ -14,6 +14,6 @@ buildscript{
     }
 }
 
-if(!project.plugins.findPlugin(com.yahoo.parsec.paresc_templates.ParsecTemplatesPlugin)){
+if(!project.plugins.findPlugin(com.yahoo.parsec.parsec_templates.ParsecTemplatesPlugin)){
     project.apply(plugin: com.yahoo.parsec.parsec_templates.ParsecTemplatesPlugin)
 }
